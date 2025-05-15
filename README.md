@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Siyuan. 
+- 👋 Hi, I’m Siyuan. 📪 My [LinkedIn](https://www.linkedin.com/in/siyuan-cheng-65b979352/).
 - 📖 Master's student in Computational Science and Engineering at EPFL.
-- 📪 My [cv](https://drive.google.com/file/d/1lnI02_Zn-eL94Jr_PW2yrxt5aNaQOncs/view?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/siyuan-cheng-65b979352/).
+  
+<!---
+[cv](https://drive.google.com/file/d/1lnI02_Zn-eL94Jr_PW2yrxt5aNaQOncs/view?usp=sharing) and
+--->
 
 ### Featured Projects
 > **[ActivityRecognition](https://github.com/EPFL-ICE/Activity-recognition)**: Designed a classifier to identify human activities based on time-series data from wearable sensors. (Limited access due to confidentiality)
