@@ -6,6 +6,8 @@
 --->
 
 ### Featured Projects
+> **[sketchedUQ](https://github.com/sucharush/sketched-uncertainty-score)**: Uncertainty estimation via sketched Krylov methods on the GGN matrix of neural networks.
+>
 > **[ActivityRecognition](https://github.com/EPFL-ICE/Activity-recognition)**: Designed a classifier to identify human activities based on time-series data from wearable sensors. (Limited access due to confidentiality)
 >
 > **[ParallelNyström](https://github.com/sucharush/parallel-Nystrom)**: A parallel version of the Nyström approximation with Gaussian and SRHT sketching.
